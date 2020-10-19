@@ -4,12 +4,11 @@ Hello, im Gare im currently learning github and i hope we can learn together!! j
 
 ### About Me!
 
--🌱 I’m currently learning in Bandung Institute of Technology.\
--👯 I’m looking to collaborate on many projects.\
--🤔 I’m looking for help with anything coding related.
+🌱 I’m currently learning in Bandung Institute of Technology.
+👯 I’m looking to collaborate on many projects.
+🤔 I’m looking for help with anything coding related.
 
 ### I'm currently learning and interested in these stuff
-  
 <br>💻Coding Stuff</br>
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)\
  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)\
@@ -25,18 +24,18 @@ Hello, im Gare im currently learning github and i hope we can learn together!! j
 ### Find me on social media:
 
 <div>
-  
+  <p align = "center">
 <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mgarebaldhie " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/eragiare " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:mgarebaldhie80@gmail.com"><img src="https://img.shields.io/badge/-mgarebaldhie80@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+  </p>
 </div>
 
 ### Hi there, thanks for stopping by this is my github stat currently
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/IloveNooodles">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IloveNooodles&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IloveNoodles&layout=compact&langs_count=8&theme=react"/>
 </a>
