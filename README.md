@@ -9,7 +9,6 @@ Hello, im Gare im currently learning github and i hope we can learn together!! j
 🤔 I’m looking for help with anything coding related.
 
 ### I'm currently learning and interested in these stuff
-<p align = "center">
 <br>💻Coding Stuff</br>
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)\
  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)\
@@ -21,7 +20,6 @@ Hello, im Gare im currently learning github and i hope we can learn together!! j
  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)\
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)\
  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-</p>
 ### Find me on social media:
 
 <div>
