@@ -31,7 +31,7 @@ My name is Muhammad Garebaldhie Er Rahman, you can call me gare. I'm currently l
   </p>
 </div>
 
-### Hi thanks for stopping by, this is stat currently.
+### Hi thanks for stopping by, this is my stat currently.
 
 <p align="center">
 <a href="https://github.com/IloveNooodles">
