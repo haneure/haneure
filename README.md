@@ -36,7 +36,6 @@ Hello, im Gare im currently learning github and i hope we can learning together!
 </div>
 
 ---
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
 Hi there, thanks for stopping by, this is **Gare Baldhie**
 
