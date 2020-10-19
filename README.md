@@ -1,6 +1,6 @@
 ## Hi there i'm Gare 👋
 
-Hello, im Gare im currently learning github and i hope we can learn together!! just call me gare.
+My name is Muhammad Garebaldhie Er Rahman, you can call me gare. I'm currently learning and interested about a whole lot stuff like html, js, c++, python, or anything coding related. I love technology or that kind of stuff related. I'm hoping we all can work together and learning together!!
 
 ### About Me!
 
