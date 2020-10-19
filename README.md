@@ -30,7 +30,7 @@ Hello, im Gare im currently learning github and i hope we can learning together!
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mgarebaldhie "target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/mgarebaldhie " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/eragiare " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 </div>
@@ -39,24 +39,7 @@ Hello, im Gare im currently learning github and i hope we can learning together!
 
 Hi there, thanks for stopping by, this is **Gare Baldhie**
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
-```javascript
-const charles = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
-    }
-};
-```
-
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+![IloveNooodles's github stats](https://github-readme-stats.vercel.app/api?username=IloveNooodles&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/IloveNooodles">
   <img src="https://img.shields.io/github/followers/IloveNooodles">
@@ -64,7 +47,5 @@ const charles = {
 <a href="https://github.com/IloveNooodles">
    <img src="https://komarev.com/ghpvc/?username=IloveNooodles">
 </a>
-
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
 ---
