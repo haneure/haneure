@@ -29,16 +29,6 @@ My name is Muhammad Garebaldhie Er Rahman, you can call me gare. I'm currently l
 <a href="https://open.spotify.com/user/eragiare " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:mgarebaldhie80@gmail.com"><img src="https://img.shields.io/badge/-mgarebaldhie80@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </p>
-</div>
-
-### Hi thanks for stopping by, this is my stat currently.
-
-<p align="center">
-<a href="https://github.com/IloveNooodles">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IloveNooodles&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IloveNoodles&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
 
 Best Regards, Gare.
 ---
