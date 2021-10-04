@@ -2,12 +2,15 @@
 
 My name is Muhammad Garebaldhie Er Rahman, you can call me gare. I'm currently learning and interested about a whole lot stuff like ts, js, react, python, or anything coding related. I love technology or that kind of stuff related. I'm hoping we all can work together and learning together!!
 
+---
+
 ### About Me!
 
 🌱 I’m currently learning in Bandung Institute of Technology.\
 👯 I’m looking to collaborate on many projects.\
 🤔 I’m looking for help with anything coding related.
 
+---
 ### I'm currently learning and interested in these stuff
 <br>💻Coding Stuff</br>
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)\
@@ -29,11 +32,12 @@ My name is Muhammad Garebaldhie Er Rahman, you can call me gare. I'm currently l
  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)\
  ![Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
  
+ ---
 ### Find me on social media:
 
 <div>
   <p align = "center">
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/garebaldhie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mgarebaldhie " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/eragiare " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="mailto:mgarebaldhie80@gmail.com"><img src="https://img.shields.io/badge/-mgarebaldhie80@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
