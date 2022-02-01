@@ -2,16 +2,7 @@
 
 I'm an undergraduate student from STEI ITB. I am a highly motivated student and eager to learn about anything, especially tech stuff. I major in computer science and interested in all things related to computers such as web development, machine learning, AI, competitive programming, and also capture the flag. recently exploring mobile development.
 
----
-
-## About Me!
-
-🌱 I’m currently learning in Bandung Institute of Technology.\
-👯 I’m looking to collaborate on many projects.\
-🤔 Love explore technology.
-
----
-## My Tech Stack
+# My Tech Stack
 
 ### Programming Language
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -65,18 +56,18 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+## My Github Stats
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align = "center">
+ <img src="https://github-readme-stats.vercel.app/api?username=IloveNooodles&amp;show_icons=true&amp;count_private=true&amp;theme=dracula" alt="GitHub Stats">
+ <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IloveNooodles&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula" alt="GitHub Stats">
+<p>
 
-
- 
- ---
 ## Find me on social media:
 <div>
   <p align = "center">
-<a href="https://www.linkedin.com/in/garebaldhie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mgarebaldhie " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/eragiare " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="mailto:mgarebaldhie80@gmail.com"><img src="https://img.shields.io/badge/-mgarebaldhie80@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/garebaldhie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mgarebaldhie " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/eragiare " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="mailto:mgarebaldhie80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
- 
----
-# Best Regards, Gare.
