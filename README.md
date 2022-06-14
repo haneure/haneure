@@ -1,8 +1,8 @@
-# Hi there i'm Gare 👋
+# 👋 Hi there i'm Gare
 
-I'm an undergraduate student from STEI ITB. I am a highly motivated student and eager to learn about anything, especially tech stuff. I major in computer science and interested in all things related to computers such as web development, machine learning, AI, competitive programming, and also capture the flag. recently exploring mobile development.
+I'm an undergraduate student from STEI ITB. I am a highly motivated student and eager to learn about anything, especially tech stuff. I major in computer science and interested in all things related to computers such as web development, machine learning, AI, competitive programming, and also capture the flag. currently exploring backend.
 
-# My Tech Stack
+# 💻 My Tech Stack
 
 ### Programming Language
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -19,11 +19,14 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![Bootstrap](    https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![PostgreSQL](    https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)  
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+ ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
  
 ### Extras
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
@@ -38,13 +41,12 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  
 ### I'm Currently Learning These Stuff
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
 
 ### Planning to learn
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
@@ -52,19 +54,19 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  
 
-## My Github Stats
+## 🏆 My Github Stats
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=IloveNooodles&amp;show_icons=true&amp;count_private=true&amp;theme=dracula" alt="GitHub Stats">
- <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IloveNooodles&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula" alt="GitHub Stats">
+<img src="https://github-profile-trophy.vercel.app/?username=ilovenooodles&theme=dracula&column=-1)" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=IloveNooodles&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Gare's%20Stats" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IloveNooodles&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Gare's%20most%20used%20languages" alt="GitHub Stats">
 <p>
 
-## Find me on social media:
-<div>
+## ✨ Find me on social media:
   <p align = "center">
 <a href="https://www.linkedin.com/in/garebaldhie/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mgarebaldhie " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
