@@ -4,11 +4,11 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
 
 ## 🧾 Featured Project
 
-| Name  | Tech Stack |
-| :-------------: |:-------------:|
-| [DNAObama](https://dna-obama.vercel.app/)      | React, Sequelize, Express, CSS |
-| [Comfy Store](https://comfy-store-jr0b8ok48-ilovenooodles.vercel.app/)      | HTML, CSS, JS     |
-| [Svelte TS Project](https://svelte-ts-mini-project.vercel.app/)     | Svelte, TS, CSS   |
+| Name  | Tech Stack | Name  | Tech Stack |
+| :-------------: |:-------------:| :-------------: |:-------------:|
+| [DNAObama](https://dna-obama.vercel.app/)      | React, Sequelize, Express, CSS | [Df-Version Control System](https://github.com/IloveNooodles/df-vcs)      | Bash  |
+| [Comfy Store](https://comfy-store-jr0b8ok48-ilovenooodles.vercel.app/)      | HTML, CSS, JS     | [News CRUD API](https://github.com/IloveNooodles/news-crud-api)      | Golang, go-migrate, redis, postgreSQL, docker|
+| [Svelte TS Project](https://svelte-ts-mini-project.vercel.app/)     | Svelte, TS, CSS   | [Garena Entry Task](https://github.com/IloveNooodles/news-crud-api)      | Python, Django, Redis, mysql|
 | [GICC](https://www.ganeshaicc.web.id/)     | React, JS, Mongoose, MongoDB, CSS   |
 | [Vanilla TS Project](https://vanilla-ts-project-d6s323oe4-ilovenooodles.vercel.app/)     | HTML, TS, CSS   |
 | [Tea Station](https://gare-tea-station.netlify.app/)     | HTML, CSS, JS   |
@@ -40,9 +40,11 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-	![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+ ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+ ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  
 ### Extras
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
@@ -62,13 +64,12 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Planning to learn
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  
 
