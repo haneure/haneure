@@ -1,6 +1,6 @@
-# 👋 Hi there i'm Gare
+# 👋 Hi there my name is Gare
 
-I'm an undergraduate student from STEI ITB. I am a highly motivated student and eager to learn about anything, especially tech stuff. I major in computer science and interested in all things related to computers such as web development, machine learning, AI, competitive programming, and also capture the flag. currently exploring backend.
+I'm an undergraduate student from STEI ITB. I am a highly motivated student and eager to learn about anything, especially tech stuff. I major in computer science currently on my 5th semester and interested in all things related to computers such as web development, machine learning, AI, competitive programming, and also capture the flag. currently exploring cybersecurity regarding web and binary exploitation.
 
 ## 🧾 Featured Project
 
@@ -8,11 +8,11 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
 | :-------------: |:-------------:| :-------------: |:-------------:|
 | [DNAObama](https://dna-obama.vercel.app/)      | React, Sequelize, Express, CSS | [Df-Version Control System](https://github.com/IloveNooodles/df-vcs)      | Bash  |
 | [Comfy Store](https://comfy-store-jr0b8ok48-ilovenooodles.vercel.app/)      | HTML, CSS, JS     | [News CRUD API](https://github.com/IloveNooodles/news-crud-api)      | Golang, go-migrate, redis, postgreSQL, docker|
-| [Svelte TS Project](https://svelte-ts-mini-project.vercel.app/)     | Svelte, TS, CSS   | [Garena Entry Task](https://github.com/IloveNooodles/news-crud-api)      | Python, Django, Redis, mysql|
-| [GICC](https://www.ganeshaicc.web.id/)     | React, JS, Mongoose, MongoDB, CSS   |
-| [Vanilla TS Project](https://vanilla-ts-project-d6s323oe4-ilovenooodles.vercel.app/)     | HTML, TS, CSS   |
-| [Tea Station](https://gare-tea-station.netlify.app/)     | HTML, CSS, JS   |
-| [backroads-tour](https://gare-backroads-tour.netlify.app/)     | HTML, CSS, JS   |
+| [Svelte TS Project](https://svelte-ts-mini-project.vercel.app/)     | Svelte, TS, CSS   | [Garena Entry Task](https://github.com/IloveNooodles/garena-entry-task)      | Python, Django, Redis, mysql|
+| [GICC](https://www.ganeshaicc.web.id/)     | React, JS, Mongoose, MongoDB, CSS   | [Ususbuntu operating system](https://github.com/IloveNooodles/ususbuntu-operating-system)      | c, bochs, nasm|
+| [Vanilla TS Project](https://vanilla-ts-project-d6s323oe4-ilovenooodles.vercel.app/)     | HTML, TS, CSS   | [Tcp over udp](https://github.com/IloveNooodles/tcp-over-udp)      | Python|
+| [Tea Station](https://gare-tea-station.netlify.app/)     | HTML, CSS, JS   | [Fitpal](https://github.com/IloveNooodles/fitpal)      |Python, sqlite3|
+| [backroads-tour](https://gare-backroads-tour.netlify.app/)     | HTML, CSS, JS   | [Binotify](https://github.com/IloveNooodles/binotify-app)      |PHP, HTML, CSS, JS, Docker|
 | [dummy portofolio](https://gare-portofolio-project.netlify.app/)     | HTML, CSS, JS   |
 
 ## 💻 My Tech Stack
