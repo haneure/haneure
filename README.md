@@ -24,6 +24,7 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  
 ### Web Development 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,7 +61,7 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
  
 ### I'm Currently Learning These Stuff
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -74,9 +75,10 @@ I'm an undergraduate student from STEI ITB. I am a highly motivated student and 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  
 
 ## 🏆 My Github Stats
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ilovenooodles&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
-<img src="https://github-profile-trophy.vercel.app/?username=ilovenooodles&theme=dracula&column=-1)" alt="GitHub Stats">
  <img src="https://github-readme-stats.vercel.app/api?username=IloveNooodles&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Gare's%20Stats" alt="GitHub Stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IloveNooodles&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Gare's%20most%20used%20languages" alt="GitHub Stats">
 <p>
