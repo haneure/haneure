@@ -27,6 +27,7 @@ Gare is an undergraduate student from STEI ITB. Gare is a highly motivated stude
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
  
 ### Web Development 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -79,14 +80,12 @@ Gare is an undergraduate student from STEI ITB. Gare is a highly motivated stude
  
 ### I'm Currently Learning These!
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🏆 My Github Stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilovenooodles&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=IloveNooodles&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Gare's%20Stats" alt="GitHub Stats">
