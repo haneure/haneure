@@ -1,0 +1,17 @@
+.sidebar {
+    width: 17vw;
+}
+
+.menu {
+    @apply pl-[2.5vw] text-gray-500 leading-none mt-[1vh] mb-[1vh];
+    background-position: right;
+    transition: background-position 0.5s;
+    background-size: 200% 200%;
+
+    &.active{
+        @apply w-min pr-[0.2vw] pt-[0.4vh] text-gray-100;
+        background-image: linear-gradient(to right, rgb(169, 154, 131) 50%, white 0);
+        /* background-image: linear-gradient(to right, rgb(169, 154, 131) 0%, rgb(169, 154, 131) 100%, rgba(255, 255, 255, 0) 100%); */
+        background-position: left;
+    }
+}

@@ -2,26 +2,59 @@
 @tailwind components;
 @tailwind utilities;
 
+
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    --card-height: 20vh;
+    --card-width: 5vw;
+    font-family: GOTHICB;
   }
-}
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
+  .splide {
+    padding:0 !important
+
+  }
+
+  .splide__slide {
+
+  }
+
+  .splide__list {
+    /* height: 25vh !important; */
+  }
+
+  .splide__pagination {
+    bottom: 1vh !important;
+    margin: 0 !important;
+    justify-content: left !important;
+    padding: 0 !important;
+  }
+
+  .splide__pagination__page {
+    background: rgba(39,25,25,.3) !important;
+    margin: 0.1vw !important;
+    width: 1vw !important;
+    height: 0.7vh !important;
+    opacity: 1 !important;
+    border-radius: 0% !important;
+
+  }
+
+  .splide__pagination__page:before {
+    /* transform:rotate(-45deg) skewX(22.5deg) skewY(22.5deg) !important; */
+  }
+
+  .splide__pagination__page:after {
+    transform:rotate(45deg) skewX(22.5deg) skewY(22.5deg) !important;
+  }
+
+
+  .splide__pagination__page:hover {
+    background: white !important;
+    transform: scale(1) !important;
+  }
+
+  .splide__pagination__page.is-active {
+    background: black !important;
+    transform: scale(1) !important;
+    opacity: 1 !important;
+  }
