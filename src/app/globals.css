@@ -2,11 +2,44 @@
 @tailwind components;
 @tailwind utilities;
 
-
 :root {
-    --card-height: 20vh;
-    --card-width: 5vw;
-    font-family: GOTHICB;
+  --card-height: 20vh;
+  --card-width: 5vw;
+  font-family: GOTHICB;
+}
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: calc(100vw / 1728 * 10);
+}
+
+body {
+  font-size: clamp(16px, 1.6rem, 1.6rem);
+  font-family: "Matter Regular", sans-serif;
+
+  font-style: normal;
+  font-variation-settings: "ital" 0, "wght" 400;
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  letter-spacing: -0.03em;
+}
+
+  h1 {
+    font-size: 16rem;
+    font-weight: 400;
+    letter-spacing: -0.03em;
   }
 
   .splide {
@@ -23,10 +56,12 @@
   }
 
   .splide__pagination {
-    bottom: 1vh !important;
-    margin: 0 !important;
-    justify-content: left !important;
-    padding: 0 !important;
+    top: -30.5vh !important;
+    left: -44.5vw !important;
+    /* bottom: 1vh !important; */
+    /* margin: 0 !important; */
+    /* justify-content: left !important;
+    padding: 0 !important; */
   }
 
   .splide__pagination__page {
@@ -58,3 +93,4 @@
     transform: scale(1) !important;
     opacity: 1 !important;
   }
+  

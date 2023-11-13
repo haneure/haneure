@@ -1,120 +1,65 @@
 "use client";
-import Content from "./components/Content/Content";
-import Card from "./components/Card/Card";
 
-import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
-// Default theme
-import "@splidejs/react-splide/css";
+import { useEffect, useLayoutEffect, useState } from "react";
+import { gsap } from "gsap";
 
-// or other themes
-import "@splidejs/react-splide/css/skyblue";
-import "@splidejs/react-splide/css/sea-green";
-
-// or only core styles
-import "@splidejs/react-splide/css/core";
-import Image from "next/image";
+import Loader from "@/app/components/Loader/Loader";
+import RootLayout from "./layout";
+import Link from "next/link";
 
 export default function Home() {
+    const [loaderFinished, setLoaderFinished] = useState(false);
+    const [timeline, setTimeline] = useState<any>(null);
+
+    //   const addDataIntoCache = (cacheName, url, response) => {
+    //     // Converting our response into Actual Response form
+    //     const data = new Response(JSON.stringify(response));
+    //     console.log(data);
+    //     if ("caches" in window) {
+    //         // Opening given cache and putting our data into it
+    //         caches.open(cacheName).then((cache) => {
+    //             cache.put(url, data);
+    //             alert("Data Added into cache!");
+    //         });
+    //     }
+    // };
+
+    useLayoutEffect(() => {
+        const context = gsap.context(() => {
+            const tl = gsap.timeline({
+                onComplete: () => setLoaderFinished(true),
+            });
+
+            setTimeline(tl);
+        });
+
+        return () => context.revert();
+    }, []);
+
+    // useEffect(() => {
+    //     if (loaderFinished) {
+    //         let loadingState = localStorage.getItem("loadingState");
+    //         if (loadingState === null) {
+    //             // localStorage.setItem("loadingState", "true");
+    //         }
+    //     }
+    // }, [loaderFinished]);
+
+    // const getLoadingState = () => {
+        // return localStorage.getItem("loadingState");
+    // };
+
     return (
-        <>
-            <Content>
-                <div className="wrapper w-[50vw] h-[30vh] mt-[25vh] justify-center border border-green-500">
-                    <Splide
-                        style={{}}
-                        options={{
-                            autoplay: false,
-                            interval: 1000,
-                            drag: true,
-                            loop: true,
-                            arrows: false,
-                            type: "loop",
-                            perPage: 1,
-                            padding: { left: "0vw", right: "21.5vw" },
-                            gap: "0.1vw",
-                        }}
-                        hasTrack={false}
-                        aria-label="My Favorite Images"
-                    >
-                        <SplideTrack>
-                            <SplideSlide>
-                                <Image
-                                    src="/Screenshot1.png"
-                                    width={100}
-                                    height={100}
-                                    style={{
-                                        width: "27vw",
-                                        height: "30vh",
-                                        objectFit: "cover",
-                                        borderTopLeftRadius: "15px",
-                                        borderBottomLeftRadius: "15px",
-                                    }}
-                                    sizes="100"
-                                    alt="Image 1"
-                                />
-                            </SplideSlide>
-                            <SplideSlide>
-                                <Image
-                                    src="/Screenshot2.png"
-                                    width={100}
-                                    height={100}
-                                    style={{
-                                        width: "27vw",
-                                        height: "30vh",
-                                        objectFit: "cover",
-                                        borderTopLeftRadius: "15px",
-                                        borderBottomLeftRadius: "15px",
-                                    }}
-                                    sizes="100"
-                                    alt="Image 2"
-                                />
-                            </SplideSlide>
-                            <SplideSlide>
-                                <Image
-                                    src="/Screenshot1.png"
-                                    width={75}
-                                    height={100}
-                                    style={{
-                                        width: "27vw",
-                                        height: "30vh",
-                                        objectFit: "cover",
-                                        borderTopLeftRadius: "15px",
-                                        borderBottomLeftRadius: "15px",
-                                    }}
-                                    sizes="100"
-                                    alt="Image 3"
-                                />
-                            </SplideSlide>
-                            <SplideSlide>
-                                <Image
-                                    src="/Screenshot2.png"
-                                    width={100}
-                                    height={100}
-                                    style={{
-                                        width: "27vw",
-                                        height: "30vh",
-                                        objectFit: "cover",
-                                        borderTopLeftRadius: "15px",
-                                        borderBottomLeftRadius: "15px",
-                                    }}
-                                    sizes="100"
-                                    alt="Image 4"
-                                />
-                            </SplideSlide>
-                        </SplideTrack>
-
-                        <div
-                            style={{ top: "-31.5vh", left: "0vw" }}
-                            className="splide__pagination"
-                        />
-                    </Splide>
+        <main>
+            {loaderFinished ? (
+                <div className="flex flex-col h-screen items-center justify-center">
+                    <div className="">
+                        <Link href="/home">Home</Link>
+                    </div>
                 </div>
-
-                <div className="hero flex absolute gap-[2vw] right-[6vh] bottom-[2vw]">
-                    {Array.from(Array(3).keys()).map((_, i) => (
-                        <Card key={i} />
-                    ))}
-                </div>
-            </Content>
-        </>
+            ) : (
+                <Loader timeline={timeline} />
+            )}
+        </main>
     );
 }

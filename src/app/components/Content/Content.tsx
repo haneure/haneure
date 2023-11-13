@@ -33,4 +33,3 @@ export default function Content({children, caption = "Hello, nice to meet you"}:
         </>
     );
 }
-``;

@@ -15,10 +15,10 @@ export default function Sidebar() {
             <div className="flex flex-col text-[0.8vw] font-bold h-[25vh] justify-center border border-green-500">
                 <div
                     className={`${styles.menu} ${
-                        pathName === "/" ? styles.active : ""
+                        pathName === "/home" ? styles.active : ""
                     }`}
                 >
-                    <Link href="/">HOME</Link>
+                    <Link href="/home">HOME</Link>
                 </div>
                 <div
                     className={`${styles.menu} ${
