@@ -36,22 +36,22 @@ export default function Home() {
         return () => context.revert();
     }, []);
 
-    useEffect(() => {
-        if (loaderFinished) {
-            let loadingState = localStorage.getItem("loadingState");
-            if (loadingState === null) {
-                // localStorage.setItem("loadingState", "true");
-            }
-        }
-    }, [loaderFinished]);
+    // useEffect(() => {
+    //     if (loaderFinished) {
+    //         let loadingState = localStorage.getItem("loadingState");
+    //         if (loadingState === null) {
+    //             // localStorage.setItem("loadingState", "true");
+    //         }
+    //     }
+    // }, [loaderFinished]);
 
-    const getLoadingState = () => {
-        return localStorage.getItem("loadingState");
-    };
+    // const getLoadingState = () => {
+        // return localStorage.getItem("loadingState");
+    // };
 
     return (
         <main>
-            {loaderFinished || getLoadingState() === "true" ? (
+            {loaderFinished ? (
                 <div className="flex flex-col h-screen items-center justify-center">
                     <div className="">
                         <Link href="/home">Home</Link>
