@@ -1,6 +1,10 @@
 # 👋 Hi My name is Gare
 
-Gare is an undergraduate student from STEI ITB. Gare is a highly motivated student and eager to learn about anything, especially tech stuff. Gare majored in computer science currently on his 6th semester. He interested in all things related to computers such as Web development in general both frontend and backend, machine learning, and capture the flag. He is currently exploring cybersecurity about web and binary exploitation.
+Hey there! My name is Muhammad Garebaldhie ER Rahman, but you can just call me Gare. I'm currently navigating my way through the Informatics at ITB. What really gets me going is anything and everything tech-related. I'm the kind of person who's always curious, always ready to dive into something new and challenging.
+
+My journey in tech has taken me through various paths - from tinkering with infrastructure to messing around with backend and frontend development. And let's not forget cybersecurity and capture the flag competitions, which are totally thrilling.
+
+Every day, there's something new to learn, and that's what keeps me on my toes. Whether it's a new programming language, a cutting-edge technology, or just a better way to solve problems, I'm on it.
 
 ## 🧾 Featured Project
 
