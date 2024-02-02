@@ -5,6 +5,8 @@ import "../globals.css";
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
 import Sidebar from "../components/Sidebar/Sidebar";
+import { usePathname } from "next/navigation";
+import path from "path";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,6 +20,8 @@ export default function ContentLayout({
 }: {
     children: React.ReactNode;
 }) {
+    const pathName = usePathname();
+
     return (
         <body className={inter.className}>
             <main className="flex flex-col h-screen">
@@ -26,7 +30,7 @@ export default function ContentLayout({
                     <Sidebar />
                     {children}
                 </div>
-                <Footer />
+                <Footer key={pathName} />
             </main>
         </body>
     );
