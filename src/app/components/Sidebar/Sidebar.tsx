@@ -1,8 +1,8 @@
 "use client";
-import styles from "./Sidebar.module.css";
-import { useRouter } from "next/navigation";
-import { usePathname } from "next/navigation";
 import Link from "next/link";
+import { usePathname, useRouter } from "next/navigation";
+import { useEffect } from "react";
+import styles from "./Sidebar.module.css";
 
 export default function Sidebar() {
     const router = useRouter();
