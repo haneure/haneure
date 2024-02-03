@@ -1,4 +1,7 @@
 .card {
+    --card-height: 20vh;
+    --card-width: 5vw;
+    
     position: relative;
     display: flex;
     justify-content: center;

@@ -3,24 +3,28 @@
 @tailwind utilities;
 
 :root {
-  --card-height: 20vh;
-  --card-width: 5vw;
   font-family: GOTHICB;
 }
 
-*,
+.body {
+  margin: 0px;
+  overflow: hidden;
+  cursor: wait;
+}
+
+/* *,
 *:before,
 *:after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 
-html {
+/* html {
   font-size: calc(100vw / 1728 * 10);
-}
+} */
 
-body {
+/* body {
   font-size: clamp(16px, 1.6rem, 1.6rem);
   font-family: "Matter Regular", sans-serif;
 
@@ -34,13 +38,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   width: 100%;
   letter-spacing: -0.03em;
-}
+} */
 
-  h1 {
+  /* h1 {
     font-size: 16rem;
     font-weight: 400;
     letter-spacing: -0.03em;
-  }
+  } */
 
   .splide {
     padding:0 !important
