@@ -3,9 +3,9 @@ import { useEffect, useRef } from "react";
 import Magnetic from "../Magnetic/magnetic";
 import styles from "./style.module.scss";
 
-const Rounded = ({ children, backgroundColor = "#455CE9", ...attributes }) => {
+const Button = ({ children, backgroundColor = "#455CE9", ...attributes }) => {
     const circle = useRef(null);
-    let timeline = useRef(null);
+    const timeline = useRef(null);
     let timeoutId = null;
 
     useEffect(() => {
@@ -40,27 +40,27 @@ const Rounded = ({ children, backgroundColor = "#455CE9", ...attributes }) => {
     };
 
     return (
-        <Magnetic>
+        // <Magnetic>
+        <div
+            className={styles.roundedButton}
+            style={{ overflow: "hidden" }}
+            onMouseEnter={() => {
+                manageMouseEnter();
+            }}
+            onMouseLeave={() => {
+                manageMouseLeave();
+            }}
+            {...attributes}
+        >
+            {children}
             <div
-                className={styles.roundedButton}
-                style={{ overflow: "hidden" }}
-                onMouseEnter={() => {
-                    manageMouseEnter();
-                }}
-                onMouseLeave={() => {
-                    manageMouseLeave();
-                }}
-                {...attributes}
-            >
-                {children}
-                <div
-                    ref={circle}
-                    style={{ backgroundColor }}
-                    className={styles.circle}
-                ></div>
-            </div>
-        </Magnetic>
+                ref={circle}
+                style={{ backgroundColor }}
+                className={styles.circle}
+            ></div>
+        </div>
+        // </Magnetic>
     );
 };
 
-export default Rounded;
+export default Button;

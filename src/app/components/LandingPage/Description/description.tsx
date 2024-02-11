@@ -1,3 +1,4 @@
+import Button from "@/app/common/Button/button";
 import Rounded from "@/app/common/RoundedButton/rounded-button";
 import { motion, useInView } from "framer-motion";
 import React, { useRef } from "react";
@@ -38,9 +39,12 @@ const Description = () => {
                     problems with code.
                 </motion.p>
                 <div data-scroll data-scroll-speed={0.1}>
-                    <Rounded className={styles.button}>
+                    {/* <Rounded className={styles.button}>
                         <p>About me</p>
-                    </Rounded>
+                    </Rounded> */}
+                    <Button className={styles.button}>
+                        <p>About me</p>
+                    </Button>
                 </div>
             </div>
         </div>

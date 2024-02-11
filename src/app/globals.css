@@ -6,6 +6,10 @@
   font-family: GOTHICB;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 .body {
   margin: 0px;
   overflow: hidden;
