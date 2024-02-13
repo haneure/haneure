@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya" width="100"/></a> </br>
 </p>
 I am a Software Engineer currently working as a Web Developer.
-I mainly code with PHP, sometimes with Golang / Python.
+I mainly code with PHP, sometimes with Golang / Python. I have also used Javascript and Typescript on many projects.
 I strive to be a Full Stack Developer who can easily adapt to many languages.
 Please take a while to look at my recent projects on my homepage.
 
