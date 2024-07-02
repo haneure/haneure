@@ -3,11 +3,8 @@
   <a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya" width="100"/></a> </br>
 </p>
 I am a Software Engineer currently working as a Web Developer.
-I mainly code with PHP, sometimes with Golang / Python. I have also used Javascript and Typescript on many projects.
+I mainly code with PHP, sometimes with Golang / Python. I have also used Javascript and Typescript on several projects.
 I strive to be a Full Stack Developer who can easily adapt to many languages.
-Please take a while to look at my recent projects on my homepage.
-
-# https://haneure-old.vercel.app/
 
 <!---  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
