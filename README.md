@@ -82,8 +82,10 @@ Every day, there's something new to learn, and that's what keeps me on my toes. 
 # 🏆 Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IloveNooodles&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilovenooodles&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://github-readme-stats.vercel.app/api?username=IloveNooodles&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Gare's%20Stats" alt="GitHub Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilovenooodles&theme=dracula&hide_border=false" alt="GitHub Stats streak">
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=IloveNooodles&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Gare's%20Stats" alt="GitHub Stats">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilovenooodles&theme=dracula&hide_border=false" alt="GitHub Stats streak">
+</p>
 
 # ✨ Let's Connect
   <p align = "center">
