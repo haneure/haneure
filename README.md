@@ -1,15 +1,13 @@
-# 👋 Hi
+# 👋 Hi I'm Gare
 
-Hey there! My name is Muhammad Garebaldhie ER Rahman, but you can just call me Gare. I'm currently navigating my way through the Informatics at ITB. What really gets me going is anything and everything tech-related. I'm the kind of person who's always curious, always ready to dive into something new and challenging.
+I specialize in building robust backend systems, infrastructure, and managing deployments through Kubernetes. While my focus is on the backend, I'm also comfortable with frontend development, allowing me to tackle projects holistically. I love doing CTF challenges to expand my knowledge not only in cybersecurity but also in web development and new tech trends.
 
-My journey in tech has taken me through various paths - from tinkering with infrastructure to messing around with backend and frontend development. And let's not forget cybersecurity and capture the flag competitions, which are totally thrilling.
-
-Every day, there's something new to learn, and that's what keeps me on my toes. Whether it's a new programming language, a cutting-edge technology, or just a better way to solve problems, I'm on it.
+Let's connect! I'm always looking to meet other passionate developers
 
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Software Engineer | [Matchmade](https://www.matchmade.io/) | Mar 2023 - Present |
+| Software Engineer | [Matchmade](https://www.matchmade.io/) | Mar 2023 - Sep 2024 |
 | Software Engineer Intern | [Makmur](https://www.makmur.id/id) | May 2023 - Aug 2023 |
 | Software Engineer Intern | [Garena](https://garena.co.id/) | Aug 2022 - Nov 2022 |
 | Software Development Engineer Intern | [Sayurbox](https://www.sayurbox.com/) | Nov 2021 - Jul 2022 |
