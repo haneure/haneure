@@ -1,28 +1,26 @@
-# 👋 Hi I'm Gare
-<img src="https://komarev.com/ghpvc/?username=ilovenooodles&color=red&style=for-the-badge"/>
-I specialize in building robust backend systems, infrastructure, and managing deployments through Kubernetes. While my focus is on the backend, I'm also comfortable with frontend development. I love doing CTF challenges to expand my knowledge not only in cybersecurity but also in web development and new tech trends.     
-  
+# 👋 Hi I'm Chris
+<img src="https://komarev.com/ghpvc/?username=haneure&color=red&style=for-the-badge"/>
+I'm a software engineer with strong foundation in backend development, DevOps, and full-stack flexibility. While my primary expertise is backend development with Laravel, Python, and Go, I’ve also contributed to frontend projects using Vue.js and React. More recently, I’ve been learning to build AI-focused SaaS tools with TypeScript and Next.js to deepen my experience with scalable full-stack development.
+
   
 <p align="center">
   <br />
   <samp>
-    <a href="https://mgarebaldhie.me">me</a> .
-    <a href="https://www.linkedin.com/in/garebaldhie/" target="_blank">linkedin</a> .
-    <a href="https://www.instagram.com/mgarebaldhie " target="_blank">instagram</a> .
-    <a href="https://open.spotify.com/user/eragiare " target="_blank">spotify</a> .
-    <a href="mailto:mgarebaldhie80@gmail.com">mail</a>
+    <a href="https://haneure-old.vercel.app/)">home</a> .
+    <a href="https://www.linkedin.com/in/haneure/" target="_blank">linkedin</a> .
+    <a href="https://www.instagram.com/christianrh__" target="_blank">instagram</a> .
+<!--     <a href="https://open.spotify.com/user/eragiare " target="_blank">spotify</a> . -->
+    <a href="mailto:chris.richard.halim@gmail.com">mail</a>
   </samp>
 </p>
 
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Software Engineer | [Money Forward](https://moneyforward.com/) | Nov 2024 - Now |
-| Software Engineer | [Matchmade](https://www.matchmade.io/) | Mar 2023 - Sep 2024 |
-| Software Engineer Intern | [Makmur](https://www.makmur.id/id) | May 2023 - Aug 2023 |
-| Software Engineer Intern | [Garena](https://garena.co.id/) | Aug 2022 - Nov 2022 |
-| Software Development Engineer Intern | [Sayurbox](https://www.sayurbox.com/) | Nov 2021 - Jul 2022 |
+| Software Engineer | [Indobest Artha Kreasi](https://iak.id/) | Aug 2023 - Present |
+| Software Engineer Intern | [Indobest Artha Kreasi](https://iak.id/) | Aug 2022 - Jul 2023 |
+| Android Engineer Intern | [Vidio](https://www.vidio.com/) | Feb 2022 - Jul 2022 |
  
 # 🏆 Github Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IloveNooodles&theme=xcode&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ilovenooodles&theme=dracula&column=8&no-bg=false&no-frame=true&margin-h=15&margin-w=15&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haneure&theme=tokyo-night&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=haneure&theme=tokyo-night&column=8&no-bg=false&no-frame=true&margin-h=15&margin-w=15&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
