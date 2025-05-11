@@ -20,6 +20,11 @@ I'm a software engineer with strong foundation in backend development, DevOps, a
 | Software Engineer | [Indobest Artha Kreasi](https://iak.id/) | Aug 2023 - Present |
 | Software Engineer Intern | [Indobest Artha Kreasi](https://iak.id/) | Aug 2022 - Jul 2023 |
 | Android Engineer Intern | [Vidio](https://www.vidio.com/) | Feb 2022 - Jul 2022 |
+
+# 🎨 Other Experiences (Art related)
+| Roles | Company | Duration |
+| --- | --- | --- |
+| Freelance Live2D Rigger | [Vgen](https://vgen.co/noatorie) | Feb 2025 - Present |
  
 # 🏆 Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haneure&theme=tokyo-night&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
