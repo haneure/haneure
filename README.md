@@ -21,7 +21,7 @@ I'm a software engineer with strong foundation in backend development, DevOps, a
 | Software Engineer Intern | [Indobest Artha Kreasi](https://iak.id/) | Aug 2022 - Jul 2023 |
 | Android Engineer Intern | [Vidio](https://www.vidio.com/) | Feb 2022 - Jul 2022 |
 
-# 🎨 Other Experiences (Art related)
+# 🎨 Other Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
 | Freelance Live2D Rigger | [Vgen](https://vgen.co/noatorie) | Feb 2025 - Present |
