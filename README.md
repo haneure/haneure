@@ -1,6 +1,6 @@
-# 👋 Hi I'm Chris
+# 👋 Hi, I'm Chris
 <img src="https://komarev.com/ghpvc/?username=haneure&color=red&style=for-the-badge"/>
-I'm a software engineer with strong foundation in backend development, DevOps, and full-stack flexibility. While my primary expertise is backend development with Laravel, Python, and Go, I’ve also contributed to frontend projects using Vue.js and React. More recently, I’ve been learning to build AI-focused SaaS tools with TypeScript and Next.js to deepen my experience with scalable full-stack development.
+I'm a software engineer with a strong foundation in backend development, DevOps, and full-stack flexibility. While my primary expertise is backend development with Laravel, Python, and Go, I’ve also contributed to frontend projects using Vue.js and React. More recently, I’ve been learning to build AI-focused SaaS tools with TypeScript and Next.js to deepen my experience with scalable full-stack development.
 
   
 <p align="center">
