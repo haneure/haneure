@@ -34,7 +34,7 @@ I'm a software engineer with a strong foundation in backend development, DevOps,
 #### [Grimoire](https://github.com/haneure/Grimoire): A notion clone project created with Next.js, React, Convex, Clerk Auth and Tailwind
 
 # Random stuff I made
-#### [Unityescape](https://github.com/haneure/Unityescape): Escape themed Game created with Unity, supports VR on Android. [Download on itch.io](https://umn.itch.io/unityescape)
+#### [Unityescape](https://github.com/haneure/Unityescape): Escape themed game created with Unity, supports VR on Android. [Download on itch.io](https://umn.itch.io/unityescape)
 
  
 # 🏆 Github Stats
