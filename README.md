@@ -12,10 +12,10 @@ I'm a software engineer with a strong foundation in backend development, DevOps,
 <p align="center">
   <br />
   <samp>
-    <a href="https://haneure-old.vercel.app/)">home</a> .
+    <a href="https://kurisu.noatorie.com">home</a> .
     <a href="https://www.linkedin.com/in/haneure/" target="_blank">linkedin</a> .
     <a href="https://www.instagram.com/christianrh__" target="_blank">instagram</a> .
-<!--     <a href="https://open.spotify.com/user/eragiare " target="_blank">spotify</a> . -->
+<!--     <a href="https://open.spotify.com/user/haneure " target="_blank">spotify</a> . -->
     <a href="mailto:chris.richard.halim@gmail.com">mail</a>
   </samp>
 </p>
