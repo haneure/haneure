@@ -38,4 +38,4 @@ I'm a software engineer with a strong foundation in backend development, DevOps,
 
  
 # 🏆 Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=haneure&theme=tokyo-night&column=8&no-bg=false&no-frame=true&margin-h=15&margin-w=15&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=haneure&theme=tokyonight&column=8&no-bg=false&no-frame=true&margin-h=15&margin-w=15&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
