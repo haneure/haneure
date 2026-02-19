@@ -32,6 +32,7 @@ I'm a software engineer with a strong foundation in backend development, DevOps,
 #### [Atelier](https://github.com/haneure/atelier): A live streaming platform. Built with React and Next.js, Leveraging [LiveKit](https://livekit.io/)
 #### [Hand Tracking on Unity](https://github.com/haneure/Hand-Tracking-Receiver): Implements MediaPipe hand tracking solution to render hands on Unity and combines it with a home-made [Hand Gesture Recognition](https://github.com/haneure/Hand-Tracking-Capture) runs on Python
 #### [Grimoire](https://github.com/haneure/Grimoire): A notion clone project created with Next.js, React, Convex, Clerk Auth and Tailwind
+#### [Atelier-Kanji](https://kanji.noatorie.com/): A fun way to learn Japanese. Rogue-like experience. Covering all aspects of Reading, Writing and Listening. Work in progress!
 
 # Random stuff I made
 #### [Unityescape](https://github.com/haneure/Unityescape): Escape themed game created with Unity, supports VR on Android. [Download on itch.io](https://umn.itch.io/unityescape)
